@@ -1,1 +1,1 @@
-# 2024-create-a-thon
+# AlignAI
